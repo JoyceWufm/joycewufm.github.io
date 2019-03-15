@@ -1,0 +1,15 @@
+---
+title: A normal day as a Beijing Resident
+subtitle: Spatial Visualization
+layout: default
+modal-id: 2
+date: 2016-07-17
+img: project2.PNG
+thumbnail: project2-thumbnail.PNG
+alt: image-alt
+project-date: May 2016
+client: Start Bootstrap
+category: Web Development
+description: In this assignment, our group chose GeoLife GPS Trajectories data from Microsoft Research Asia to analyse the daily movements in Beijing, mainly focus on the transport mode analysis and stay point analysis. Based on the data, our group tried to reveal the following patterns in our interface. Our target users are the officers of government scientific agency charged in urban planning and development, as well as the researches who are interested in social behaviours and travel pattern analysis. It can also be used as guideline in tourism to plan the tours covering interest places.
+
+---
