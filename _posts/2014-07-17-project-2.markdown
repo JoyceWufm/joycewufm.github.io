@@ -22,6 +22,7 @@ description: Using GeoLife GPS Trajectories data to reveal the patterns of Beiji
 Research paper can be achieved at:
 [A normal day of Beijing Public Transport](https://github.com/JoyceWufm/joycewufm.github.io/blob/master/docs/A%20Normal%20Day%20of%20Beijing%20Traffic-Spatial%20Visualisation.pdf)
 
+[Github link](https://github.com/JoyceWufm/Spatial-visualisation)
 
 #### 1. Introduction  
 
