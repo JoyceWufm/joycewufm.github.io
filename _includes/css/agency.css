@@ -791,6 +791,12 @@ ul.social-buttons li a:active {
 
 .portfolio-modal .modal-content p {
     margin-bottom: 30px;
+    text-align: left;
+}
+
+.portfolio-modal .modal-content article {
+    padding: 1em 0;
+    text-align: left;
 }
 
 .portfolio-modal .modal-content p.item-intro {
