@@ -1,5 +1,5 @@
 ---
-title: A normal day as a Beijing Resident
+title: Day of Beijing Public Transport
 subtitle: Spatial Visualization
 layout: default
 modal-id: 2
@@ -8,15 +8,19 @@ img: project2.PNG
 thumbnail: project2-thumbnail.PNG
 alt: image-alt
 project-date: May 2016
-client: --
+client: Five
 category: Visualization
 description: Using GeoLife GPS Trajectories data to reveal the patterns of Beijing residents movements in the temporal and spatial dimensions.</br> Thanks to team members, Haoyu Pang, Cheng Li, Kaiming Sun.
 ---
 
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c_u1-snYJc0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="720" height="540" src="https://www.youtube.com/embed/c_u1-snYJc0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <figcaption class="caption">A normal day as a Beijing Resident-Spatial Visulisation Project Melbuni</figcaption>
 ---
+
+#### Research Paper
+Research paper can be achieved at:
+[A normal day of Beijing Public Transport](https://github.com/JoyceWufm/joycewufm.github.io/blob/master/docs/A%20Normal%20Day%20of%20Beijing%20Traffic-Spatial%20Visualisation.pdf)
 
 
 #### 1. Introduction  
@@ -71,3 +75,4 @@ The clusters show some popular parks, like Beihai Park, Dongxiaokou Forest Park 
 #### 4. Critical Analysis of Data
 The points mainly distribute in the northern part of Beijing, where there are more universities and Information Technology working places, so, we can assume that the position recorders in Beijing are mainly students and IT workers. There are no GPS signals underground; therefore, most recorders cannot record their positions successfully. However, taking subway is one of the most popular transportations in Beijing. Hence, the data cannot show the percentage of taking subways accurately.
 
+_Sources: GeoLife GPS Trajectories in Microsof Research Asia; Unfolding maps_
