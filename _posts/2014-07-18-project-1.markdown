@@ -26,7 +26,7 @@ description: Using RCNN, Hungrian algorithm & Kalman filter to generate an integ
 Research paper: [Show Me a Safer Way: Detecting Anomalous Driving Behavior Using Online Traffic Footage](https://github.com/JoyceWufm/joycewufm.github.io/blob/master/docs/Show_Me_a_Safer_Way__Detecting_Anomalous_Driving_Behavior_Using_Online_Traffic_Footage.pdf)  
 Project code: [Github link](https://github.com/JoyceWufm/Master-research-project)
      
-#### Acknowledgement
-Thanks to our supervisors Elham Naghizade & Kourosh Khoshelhamteam, also team members Xiao Zheng & Weizhang Chen.
+#### Acknowledgement:
+Thanks to our supervisors Elham Naghizade & Kourosh Khoshelhamteam, also team members Xiao Zheng & Weizhang Chen.  
 [Mask RCNN](https://github.com/matterport/Mask_RCNN)  
 [Object tracking, Srini Ananthakrishnan](https://github.com/matterport/Mask_RCNN)  
