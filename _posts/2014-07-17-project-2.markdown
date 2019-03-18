@@ -10,7 +10,7 @@ alt: image-alt
 project-date: May 2016
 client: Five
 category: Visualization
-description: Using GeoLife GPS Trajectories data to reveal the patterns of Beijing residents movements in the temporal and spatial dimensions.</br> Thanks to team members, Haoyu Pang, Cheng Li, Kaiming Sun.
+description: Using GeoLife GPS Trajectories data to reveal the patterns of Beijing residents movements in the temporal and spatial dimensions.
 ---
 
 ---
@@ -18,7 +18,7 @@ description: Using GeoLife GPS Trajectories data to reveal the patterns of Beiji
 <figcaption class="caption">A normal day as a Beijing Resident-Spatial Visulisation Project Melbuni</figcaption>
 ---
 
->[If the video inaccessable, please download here](https://github.com/JoyceWufm/Spatial-visualisation/blob/master/Beijing%20Public%20Transport%20Trajectories.mov)
+[If the video inaccessable, please download here](https://github.com/JoyceWufm/Spatial-visualisation/blob/master/Beijing%20Public%20Transport%20Trajectories.mov)
 
 #### Research Paper
 Research paper can be achieved at:
@@ -77,4 +77,8 @@ The clusters show some popular parks, like Beihai Park, Dongxiaokou Forest Park 
 #### 4. Critical Analysis of Data
 The points mainly distribute in the northern part of Beijing, where there are more universities and Information Technology working places, so, we can assume that the position recorders in Beijing are mainly students and IT workers. There are no GPS signals underground; therefore, most recorders cannot record their positions successfully. However, taking subway is one of the most popular transportations in Beijing. Hence, the data cannot show the percentage of taking subways accurately.
 
+#### References
 _Sources: GeoLife GPS Trajectories in Microsof Research Asia; Unfolding maps_
+
+#### Acknowledgement
+Thanks to team members, Haoyu Pang, Cheng Li, Kaiming Sun.

@@ -269,7 +269,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/img/header-bg.jpg');
+    background-image: url('{{ site.baseurl }}/img/bg.png');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -538,11 +538,12 @@ section h3.section-subheading {
 
 .timeline .timeline-heading h4.subheading {
     text-transform: none;
+    font-size: 15px;
 }
 
 .timeline .timeline-body>p,
 .timeline .timeline-body>ul {
-    margin-bottom: 0;
+    margin-bottom: 10;
 }
 
 @media(min-width:768px) {
