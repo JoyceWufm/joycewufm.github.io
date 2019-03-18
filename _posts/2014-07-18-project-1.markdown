@@ -14,7 +14,7 @@ description: Using RCNN, Hungrian algorithm & Kalman filter to generate an integ
 ---
 
 #### Design:   
-<img src="img/portfolio/Flow chart master.png" alt="" style="float: left; margin-right: 10px;" /> 
+<img src="/img/portfolio/Flow chart master.png" alt="" style="float: left; margin-right: 10px;" /> 
 
 #### Result video sample:
 <iframe width="540" height="540" src="https://www.youtube.com/embed/mTFlKedstPs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
