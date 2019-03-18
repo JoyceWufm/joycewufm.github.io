@@ -21,9 +21,9 @@ description: Using GeoLife GPS Trajectories data to reveal the patterns of Beiji
 >[If the video inaccessable, please download here](https://github.com/JoyceWufm/Spatial-visualisation/blob/master/Beijing%20Public%20Transport%20Trajectories.mov)
 
 #### Research Paper
-Research paper can be achieved at:
-[A normal day of Beijing Public Transport](https://github.com/JoyceWufm/joycewufm.github.io/blob/master/docs/A%20Normal%20Day%20of%20Beijing%20Traffic-Spatial%20Visualisation.pdf)
+Research paper: [A Day of Beijing Public Transport](https://github.com/JoyceWufm/joycewufm.github.io/blob/master/docs/A%20Normal%20Day%20of%20Beijing%20Traffic-Spatial%20Visualisation.pdf)
 
+Project code: [Github link](https://github.com/JoyceWufm/Spatial-visualisation)
 
 #### 1. Introduction  
 
